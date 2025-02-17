@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MF.Plugins", "MF.Plugins\MF.Plugins.csproj", "{2C8DA0AD-DF7B-6746-0A29-3D38791B3175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C8DA0AD-DF7B-6746-0A29-3D38791B3175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8DA0AD-DF7B-6746-0A29-3D38791B3175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8DA0AD-DF7B-6746-0A29-3D38791B3175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8DA0AD-DF7B-6746-0A29-3D38791B3175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {831F64AA-E46B-434F-91DE-33848F8289C7}
+	EndGlobalSection
+EndGlobal
